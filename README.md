@@ -1,2 +1,2 @@
 # DSA
-Common codes, Leet Code
+Common codes, Leet Code in c
